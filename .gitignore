@@ -1,0 +1,15 @@
+## macOS
+.DS_Store
+
+## Editor / Cursor
+.cursor/terminals/
+.cursor/agent-transcripts/
+
+## Python / data (预留，后续可扩展)
+__pycache__/
+*.pyc
+
+## 大文件与中间结果（按需补充具体路径）
+data/
+outputs/
+
